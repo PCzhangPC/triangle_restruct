@@ -1,12 +1,6 @@
 # -*- coding: utf-8 -*-
-from OpenGL.GL import *
-from OpenGL.GLUT import *
-from OpenGL.GLU import *
 from show_window import *
 import math
-import sys
-
-a = 0
 
 
 def cal_length(po1, po2):
